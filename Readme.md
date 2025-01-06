@@ -1,5 +1,7 @@
 ## Olá, meu nome é Bruno Simplício!
 
+### SQL Developer
+---
 ### Experiência de trabalho
 
 Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
