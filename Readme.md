@@ -6,11 +6,11 @@
 
 Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
 
-[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://media.slbenfica.pt/-/media/images/slb-logo-new.svg?v=638097287260000000"/>](https://www.slbenfica.pt/)
+[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://mindsource.pt/img/ximceGlvd-Logotipo_Mind_Source_header.svg"/>](https://www.slbenfica.pt/)
 
 **T-SQL Developer** \
 [**Mind Source**](https://www.mindsource.pt/pt) • Full-time \
-Linguagens & Tecnologias: `T-SQL` \
+Linguagens & Tecnologias: `T-SQL`, `HTML`, `CSS`, `JavaScript` \
 <br/>
 
 [<img align="left" height="94px" width="94px" alt="Warpnet" src="https://media.slbenfica.pt/-/media/images/slb-logo-new.svg?v=638097287260000000"/>](https://www.slbenfica.pt/)
