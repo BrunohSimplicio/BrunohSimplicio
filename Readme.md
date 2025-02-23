@@ -8,6 +8,13 @@ Na visão geral abaixo você encontrará minha experiência de trabalho mais rec
 
 [<img align="left" height="94px" width="94px" alt="Warpnet" src="https://media.slbenfica.pt/-/media/images/slb-logo-new.svg?v=638097287260000000"/>](https://www.slbenfica.pt/)
 
+**T-SQL Developer** \
+[**Mind Source**](https://www.mindsource.pt/pt) • Full-time \
+Linguagens & Tecnologias: `T-SQL` \
+<br/>
+
+[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://media.slbenfica.pt/-/media/images/slb-logo-new.svg?v=638097287260000000"/>](https://www.slbenfica.pt/)
+
 **Data Engineer** \
 [**SLB**](https://www.slbenfica.pt/) • Full-time \
 Linguagens & Tecnologias: `Python`, `T-SQL`, `Power BI`, `Fabric`, `Git`, `ETL`,\
