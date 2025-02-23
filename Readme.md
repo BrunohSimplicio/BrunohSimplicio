@@ -8,7 +8,7 @@ Na visão geral abaixo você encontrará minha experiência de trabalho mais rec
 
 [<img align="left" height="94px" width="94px" alt="Warpnet" src="https://mindsource.pt/img/ximceGlvd-Logotipo_Mind_Source_header.svg"/>](https://www.slbenfica.pt/)
 
-**T-SQL Developer** \
+**Developer** \
 [**Mind Source**](https://www.mindsource.pt/pt) • Full-time \
 Linguagens & Tecnologias: `T-SQL`, `HTML`, `CSS`, `JavaScript` \
 <br/>
